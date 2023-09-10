@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Твоё животное</string>
+    <string name="slogan">Не забывай заботиться</string>
+    <string name="setNameToPet">Введите имя животного</string>
+    <string name="createPet">Завести животное</string>
+    <string name="nullPetNameInput">Вы не ввели имя животного!</string>
+    <string name="error">Ошибка!</string>
+    <string name="petImageDescription">Это фотография вашего животного.</string>
+    <string name="energy">Энергия</string>
+    <string name="happy">Настроение</string>
+    <string name="outOfHundred">/100</string>
+    <string name="food">Насыщение</string>
+</resources>

@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/blue"/>
+    <size android:height="76sp" android:width="76sp"/>
+    <corners android:radius="14sp" /> <!-- Радиус скругления, можно изменить значение по своему усмотрению -->
+</shape>
